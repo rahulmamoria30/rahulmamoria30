@@ -1,7 +1,5 @@
-import os
 
-# Define README content
-readme_content = """# Hi there, I'm Rahul Mamoria! 👋
+# Hi there, I'm Rahul Mamoria! 👋
 
 Welcome to my GitHub profile! I'm a **Software Engineer** from India, passionate about building efficient, scalable, and user-friendly applications.
 
@@ -9,10 +7,10 @@ Welcome to my GitHub profile! I'm a **Software Engineer** from India, passionate
 
 ## 🚀 About Me
 
-- 🌟 **Interests**: Gym, badminton, swimming, cafe racers, and bike rides.
-- 💻 **Current Focus**: Angular, React, Node.js, and Next.js.
+- 🌟 **Interests**: Gym, badminton, swimming, guitar and bike rides.
+- 💻 **Current Focus**: Java and springboot
 - 🎓 **Learning**: Performance optimization, state management, Docker, and Kubernetes.
-- 🛠️ **Specialization**: Frontend development, technical architecture, and UI/UX design.
+- 🛠️ **Specialization**: Frontend development, backend development and UI/UX design.
 
 ---
 
@@ -21,7 +19,7 @@ Welcome to my GitHub profile! I'm a **Software Engineer** from India, passionate
 ### **Languages**:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 
 ### **Frameworks and Libraries**:
@@ -32,8 +30,7 @@ Welcome to my GitHub profile! I'm a **Software Engineer** from India, passionate
 
 ### **Tools and Platforms**:
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ### **Other Tools**:
@@ -45,22 +42,15 @@ Welcome to my GitHub profile! I'm a **Software Engineer** from India, passionate
 
 ## 📝 Top Projects
 
-### [🌐 Portfolio Website](https://github.com/rahulmamoria/portfolio)
+### [🌐 Portfolio Website](https://rahulmamoria.vercel.app/)
 A personal portfolio showcasing my skills, projects, and achievements. Built with Angular and Tailwind CSS.
-
-### [📊 Dashboard Application](https://github.com/rahulmamoria/dashboard-app)
-An interactive and dynamic React application for visualizing business data. Features include real-time updates and chart components.
-
-### [🔒 Authentication Service](https://github.com/rahulmamoria/auth-service)
-A Node.js-based backend service for managing user authentication with JWT and role-based access control.
 
 ---
 
 ## 📫 How to Reach Me
 
-- **Email**: [rahul.mamoria@example.com](mailto:rahul.mamoria@example.com)
-- **LinkedIn**: [linkedin.com/in/rahulmamoria](https://linkedin.com/in/rahulmamoria)
-- **Twitter**: [@rahul_mamoria](https://twitter.com/rahul_mamoria)
+- **Email**: [rahul.mamoria@example.com](mailto:rahulmamoria@gmail.com)
+- **LinkedIn**: [linkedin.com/in/rahulmamoria](https://www.linkedin.com/in/rahulmm07/)
 
 ---
 
@@ -75,9 +65,3 @@ A Node.js-based backend service for managing user authentication with JWT and ro
 ## 🌟 Fun Fact
 I love solving complex problems in both code and life! 💡
 """
-
-# Write README file
-with open("README.md", "w") as file:
-    file.write(readme_content)
-
-print("README.md has been created successfully!")
