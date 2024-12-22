@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm a **Software Engineer** from India, passionate
 
 ---
 
-<div align="center">
-
 ## 🚀 About Me
 
 - 🌟 **Interests**: Gym, badminton, swimming, guitar, and bike rides.
@@ -13,11 +11,9 @@ Welcome to my GitHub profile! I'm a **Software Engineer** from India, passionate
 - 🎓 **Learning**: Performance optimization, state management, Docker, and Kubernetes.
 - 🛠️ **Specialization**: Frontend development, backend development, and UI/UX design.
 
-</div>
 
 ---
 
-<div align="center">
 
 ## 💼 My Tech Stack
 
@@ -43,11 +39,9 @@ Welcome to my GitHub profile! I'm a **Software Engineer** from India, passionate
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
 
-</div>
 
 ---
 
-<div align="center">
 
 ## 📝 Top Projects
 
@@ -58,21 +52,16 @@ A personal portfolio showcasing my skills, projects, and achievements. Built wit
 
 ---
 
-<div align="center">
 
 ## 📫 How to Reach Me
 
 [![Email](https://img.shields.io/badge/-rahulmamoria@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulmamoria@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-Rahul%20Mamoria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulmm07/)
 
-</div>
 
 ---
-
-<div align="center">
 
 ## 🌟 Fun Fact
 
 I love solving complex problems in both code and life! 💡
 
-</div>
