@@ -54,14 +54,6 @@ A personal portfolio showcasing my skills, projects, and achievements. Built wit
 
 ---
 
-## 📊 GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmamoria&show_icons=true&hide=stars&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmamoria&layout=compact&theme=radical)
-
----
-
 ## 🌟 Fun Fact
 I love solving complex problems in both code and life! 💡
 
