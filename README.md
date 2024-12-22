@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I'm a **Software Engineer** from India, passionate
 
 ## 📝 Top Projects
 
-### [🌐 Portfolio Website](https://rahulmamoria.vercel.app/)
-A personal portfolio showcasing my skills, projects, and achievements. Built with Angular and Tailwind CSS.
+### [ Portfolio Website](https://rahulmamoria.vercel.app/)
+A personal portfolio showcasing my skills, projects, and achievements. Built with Next.js and Tailwind CSS.
 
 ---
 
@@ -64,4 +64,4 @@ A personal portfolio showcasing my skills, projects, and achievements. Built wit
 
 ## 🌟 Fun Fact
 I love solving complex problems in both code and life! 💡
-"""
+
