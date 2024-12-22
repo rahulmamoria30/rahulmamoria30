@@ -48,8 +48,8 @@ A personal portfolio showcasing my skills, projects, and achievements. Built wit
 
 ## 📫 How to Reach Me
 
-- **Email**: [![Email](https://img.shields.io/badge/-rahul.mamoria@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahulmamoria@gmail.com)
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-Rahul%20Mamoria-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulmm07/)
+- [![Email](https://img.shields.io/badge/-rahulmamoria@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahulmamoria@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-Rahul%20Mamoria-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulmm07/)
 
 ---
 
