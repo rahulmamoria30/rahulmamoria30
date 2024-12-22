@@ -1,4 +1,3 @@
-
 # Hi there, I'm Rahul Mamoria! 👋
 
 Welcome to my GitHub profile! I'm a **Software Engineer** from India, passionate about building efficient, scalable, and user-friendly applications.
@@ -7,10 +6,10 @@ Welcome to my GitHub profile! I'm a **Software Engineer** from India, passionate
 
 ## 🚀 About Me
 
-- 🌟 **Interests**: Gym, badminton, swimming, guitar and bike rides.
-- 💻 **Current Focus**: Java and springboot
+- 🌟 **Interests**: Gym, badminton, swimming, guitar, and bike rides.
+- 💻 **Current Focus**: Java and Spring Boot
 - 🎓 **Learning**: Performance optimization, state management, Docker, and Kubernetes.
-- 🛠️ **Specialization**: Frontend development, backend development and UI/UX design.
+- 🛠️ **Specialization**: Frontend development, backend development, and UI/UX design.
 
 ---
 
@@ -49,11 +48,10 @@ A personal portfolio showcasing my skills, projects, and achievements. Built wit
 
 ## 📫 How to Reach Me
 
-- **Email**: [rahul.mamoria@example.com](mailto:rahulmamoria@gmail.com)
-- **LinkedIn**: [linkedin.com/in/rahulmamoria](https://www.linkedin.com/in/rahulmm07/)
+- **Email**: [![Email](https://img.shields.io/badge/-rahul.mamoria@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahulmamoria@gmail.com)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-Rahul%20Mamoria-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulmm07/)
 
 ---
 
 ## 🌟 Fun Fact
 I love solving complex problems in both code and life! 💡
-
